@@ -1,5 +1,4 @@
 import time
-flag = False
 limit = 1000
 start = time.time()
 with open("text.txt", "r") as file:       # Работа с файлом
